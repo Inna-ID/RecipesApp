@@ -1,0 +1,15 @@
+@import 'fonts.scss';
+@import 'variables.scss';
+@import 'null.scss';
+
+body {
+    line-height: 1;
+    font-size: 16px;
+    font-family: $FONT_ROBOTO;
+}
+
+input,
+button,
+textarea {
+    font-family: $FONT_ROBOTO;
+}
